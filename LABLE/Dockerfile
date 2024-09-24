@@ -1,4 +1,4 @@
 FROM almalinux
 LABLE TRAINER="sivakumar"\
-      DURIATION="120"/
+      DURIATION="120"\
       
